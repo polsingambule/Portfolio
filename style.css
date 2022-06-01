@@ -461,7 +461,8 @@ footer .text span a:hover{
     color: #4070f4;
   }
   nav .navbar .media-icons{
-    display: none;
+    padding-right: 46px;
+
   }
   nav .menu-btn,
   .navbar .menu .cancel-btn{
