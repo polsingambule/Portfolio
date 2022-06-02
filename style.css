@@ -498,7 +498,7 @@ footer .text span a:hover{
 }
 @media screen and (max-width:749px){
 .home-content {
-    padding-top: 30rem;
+    padding-top: 0rem;
 }
 section#home {
     background-position: -30rem;
