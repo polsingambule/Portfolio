@@ -500,6 +500,11 @@ footer .text span a:hover{
 .home-content {
     padding-top: 0rem;
 }
+  section#home {
+    background-position: -42.5rem;
+    height: 50rem;
+}
+}
 section#home {
     background-position: -28rem;
 }
