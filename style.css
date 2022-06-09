@@ -432,6 +432,10 @@ footer .text span a:hover{
 }
 
 @media (max-width: 750px) {
+    section#home {
+    background-size: 360%;
+    background-position: -42.5rem;
+}
   nav .navbar{
     width: 90%;
   }
@@ -462,7 +466,6 @@ footer .text span a:hover{
   }
   nav .navbar .media-icons{
     padding-right: 46px;
-
   }
   nav .menu-btn,
   .navbar .menu .cancel-btn{
@@ -494,15 +497,6 @@ footer .text span a:hover{
   }
   .contact .text{
     width: 100%;
-}
-}
-@media screen and (max-width:749px){
-.home-content {
-    padding-top: 0rem;
-}
-  section#home {
-       background-size: 360%;
-    background-position: -42.5rem;
 }
 }
 @media (max-width: 500px){
