@@ -501,8 +501,8 @@ footer .text span a:hover{
     padding-top: 0rem;
 }
   section#home {
-    background-position: -32.3rem;
-    height: 50rem;
+       background-size: 360%;
+    background-position: -42.5rem;
 }
 }
 @media (max-width: 500px){
