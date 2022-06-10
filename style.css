@@ -432,9 +432,10 @@ footer .text span a:hover{
 }
 
 @media (max-width: 750px) {
-    section#home {
-    background-size: 360%;
-    background-position: -42.5rem;
+ section#home {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -38rem;
 }
   nav .navbar{
     width: 90%;
