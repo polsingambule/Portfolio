@@ -504,8 +504,8 @@ footer .text span a:hover{
 }
 section#home {
     background-size: cover;
-    background-position: right;
-    background-repeat: no-repeat;
+    background-position: 67%;
+    background-repeat: no-repeat; 
 }
 }
 @media (max-width: 500px){
