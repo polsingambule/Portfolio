@@ -503,8 +503,8 @@ footer .text span a:hover{
     padding-top: 8rem;
 }
 section#home {
-    background-size:250%;
-    background-position: -38.5rem;
+    background-size: cover;
+    background-position: right;
     background-repeat: no-repeat;
 }
 }
