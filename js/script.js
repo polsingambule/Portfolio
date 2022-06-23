@@ -54,3 +54,6 @@ function linkdin_page() {
 function instagram_page() {
   window.open("#"); 
 }
+function sendMail() {
+  window.open("https://mail.google.com/mail/u/1/#inbox?compose=jrjtXGlRLkLjJHDpXRwmmtcljxchNvdsmtGmTJBSlPtrkpmNtqtWJxGnVQJPHfRKWftPNPDz");
+}
